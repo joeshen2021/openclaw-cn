@@ -1,0 +1,18 @@
+OpenClaw 国内版
+版本: 2026.2.6-3-cn
+构建日期: 2026-02-08 02:01:13
+分支: feature/china-models
+
+包含功能:
+- 所有 OpenClaw 官方功能
+- 国内大模型支持:
+  * SiliconFlow (硅基流动)
+  * DashScope (阿里云百炼)
+  * DeepSeek
+  * Volcengine (火山引擎)
+  * Kimi Code
+  * Xiaomi (小米)
+  * Qianfan (百度千帆)
+
+上游版本: 2026.2.6-3
+最后同步: 2026-02-07
